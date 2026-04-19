@@ -1,6 +1,6 @@
 # $$\color{red}{\text{Kurmak için setup.exe'ye çift tıklayın}}$$
-# $$\color{yellow}{\text{Yakında Youtube Kurulum Videosu}}$$
-# [YouTube](https://www.youtube.com/@bakenosensei)
+# $$\color{yellow}{\text{Yakında Youtube Kurulum Videosu Alltaki Bağlantılardan Bizi Destekliyebilirsiniz.}}$$
+# [YouTube](https://www.youtube.com/@bakenosensei) # [PlayStore]([https://www.youtube.com/@bakenosensei](https://play.google.com/store/apps/dev?id=6360811440908487705&hl=tr))
 
 <img width="1188" height="758" alt="Ekran Alıntasdısı" src="https://github.com/user-attachments/assets/c40e7e8d-b6e2-4c46-bb1c-a7979e398a82" />
 <img width="1255" height="803" alt="image" src="https://github.com/user-attachments/assets/57d2a865-62a7-412b-81c6-2e1d3c6c9e84" />
