@@ -1,5 +1,5 @@
 # $$\color{red}{\text{Kurmak için setup.exe'ye çift tıklayın}}$$
-# $$\color{yellow}{\text{Yakında Youtube Kurulum Videosu Alltaki Bağlantılardan Bizi Destekliyebilirsiniz.}}$$### 
+# $$\color{yellow}{\text{Yakında Youtube Kurulum Videosu}}$$### 
 📱 Sosyal Medya ve Uygulamalar
 * **YouTube Kanalım:** [@bakenosensei](https://www.youtube.com/@bakenosensei)
 * **PlayStore Geliştirici Sayfam:** [Sensei Team Software](https://play.google.com/store/apps/dev?id=6360811440908487705)
